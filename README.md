@@ -72,7 +72,7 @@ Puedes modificar este prompt, por ejemplo, del siguiente modo
 ```python
 transcriber = VideoTranscriber()
 new_translation_prompt = """
-Traducir al español rioplatense respetando los términos del lunfardo
+Traducir a un español neutro con atención a los términos técnicos del campo disciplinar
 
 Texto a traducir:
 {text}
